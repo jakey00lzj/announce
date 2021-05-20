@@ -1,0 +1,5 @@
+rootProject.name = 'announce'
+include 'annouce-core'
+include 'announce-client'
+include 'announce-server'
+
