@@ -2,10 +2,8 @@ package com.demo.announce;
 
 public interface IAction {
 
-    boolean start();
+    boolean doStart();
 
-    boolean stop();
-
-    boolean getStatus();
+    boolean doStop();
 
 }
